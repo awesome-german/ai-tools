@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or reference this Awesome list, please cite it as follows."
+title: "Awesome AI tools for learning Resources"
+authors:
+  - family-names: "Maintainers"
+    given-names: "Awesome List"
+    affiliation: "Open Source Community"
+repository-code: "https://github.com/awesome-german/awesome-german/ai-tools"
+url: "https://github.com/awesome-german/awesome-german/ai-tools"
+version: "1.0.0"
+date-released: "2025-11-11"
+keywords:
+  - awesome-list
+  - curated
+  - resources
+license: "CC-BY-4.0"
+abstract: >
+  A curated collection of high-quality resources on AI tools for learning.
+  Contributions are welcome.
