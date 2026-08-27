@@ -562,3 +562,19 @@ This awesome list is curated for the German language learning community. Special
 **Note**: While AI tools are powerful aids for learning German, they work best when combined with human interaction, traditional study methods, and real-world practice. Use this list as a starting point to find tools that match your learning style and goals, but remember that becoming fluent in German ultimately requires consistent practice, patience, and engagement with the language and culture.
 
 **Disclaimer**: Tool availability, features, and pricing may change. Always verify current information on the official websites. This list is for informational purposes and does not constitute endorsement of any particular tool or service.
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [**apps**](https://github.com/awesome-german/apps) — Mobile and web apps for mastering German vocabulary, grammar, and speaking skills effectively.
+- [**cognitive-learning**](https://github.com/awesome-german/cognitive-learning) — Cognitive and neuroscience-based methods for efficient German acquisition
+- [**ai-translation**](https://github.com/awesome-german/ai-translation) — Neural translation tools and multilingual corpus alignment techniques for German
+- [**stable-diffusion-api-automate**](https://github.com/didvc/stable-diffusion-api-automate) — A powerful command-line tool for automating Stable Diffusion image generation through the WebUI API. Generate multiple images with different…
+- [**claude-code-jsonl-editor**](https://github.com/didvc/claude-code-jsonl-editor) — 🚀 Interactive JSONL editor for Claude Code conversation files with real-time file system synchronization. Efficient prompt engineering through…
+- [**cli**](https://github.com/prompt-management/cli) — CLI tool for managing AI prompts with search and organization capabilities. Personal, secure prompt library with YAML storage and metadata filtering.
+- [**text-to-speech**](https://github.com/didvc/text-to-speech) — 🎤 VoiceFlow - Modern text-to-speech web application with real-time word highlighting, customizable voice settings, and content management. Built…
+- [**cli**](https://github.com/prompt-scheduler/cli) — Modern TypeScript automation tool for scheduling and executing prompts for AI agents with intelligent usage limit detection. Currently supports…
+<!-- END gh-mutual-linking -->
