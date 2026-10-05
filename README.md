@@ -496,6 +496,12 @@ The landscape of AI-powered German learning continues to evolve rapidly:
 - **Emotional Intelligence** - AI tutors that better understand and respond to learner frustration or confusion
 - **Ethical AI** - Ensuring AI language learning tools are unbiased and culturally sensitive
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! If you know of an excellent AI-powered German learning tool that's not listed:
@@ -563,18 +569,22 @@ This awesome list is curated for the German language learning community. Special
 
 **Disclaimer**: Tool availability, features, and pricing may change. Always verify current information on the official websites. This list is for informational purposes and does not constitute endorsement of any particular tool or service.
 
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
 <!-- BEGIN gh-mutual-linking -->
 
 ---
 
 ### Related projects
 
-- [**apps**](https://github.com/awesome-german/apps) — Mobile and web apps for mastering German vocabulary, grammar, and speaking skills effectively.
-- [**cognitive-learning**](https://github.com/awesome-german/cognitive-learning) — Cognitive and neuroscience-based methods for efficient German acquisition
-- [**ai-translation**](https://github.com/awesome-german/ai-translation) — Neural translation tools and multilingual corpus alignment techniques for German
-- [**stable-diffusion-api-automate**](https://github.com/didvc/stable-diffusion-api-automate) — A powerful command-line tool for automating Stable Diffusion image generation through the WebUI API. Generate multiple images with different…
-- [**claude-code-jsonl-editor**](https://github.com/didvc/claude-code-jsonl-editor) — 🚀 Interactive JSONL editor for Claude Code conversation files with real-time file system synchronization. Efficient prompt engineering through…
-- [**cli**](https://github.com/prompt-management/cli) — CLI tool for managing AI prompts with search and organization capabilities. Personal, secure prompt library with YAML storage and metadata filtering.
-- [**text-to-speech**](https://github.com/didvc/text-to-speech) — 🎤 VoiceFlow - Modern text-to-speech web application with real-time word highlighting, customizable voice settings, and content management. Built…
-- [**cli**](https://github.com/prompt-scheduler/cli) — Modern TypeScript automation tool for scheduling and executing prompts for AI agents with intelligent usage limit detection. Currently supports…
+- [apps](https://github.com/awesome-german/apps): Mobile and web apps for mastering German vocabulary, grammar, and speaking skills effectively.
+- [ai-translation](https://github.com/awesome-german/ai-translation): Neural translation tools and multilingual corpus alignment techniques for German.
+- [learning-tools](https://github.com/awesome-german/learning-tools): Apps and materials for German language and its comparison.
+- [speaking](https://github.com/awesome-german/speaking): Resources and methods to improve spoken German, pronunciation, and real-life conversation skills.
+- [flashcards](https://github.com/awesome-german/flashcards): Best flashcard tools, decks, and spaced repetition strategies for memorizing German words and phrases.
+
 <!-- END gh-mutual-linking -->
